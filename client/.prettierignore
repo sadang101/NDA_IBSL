@@ -1,0 +1,16 @@
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+build
+.vite
+
+# Cache
+.cache
+.parcel-cache
+
+# Misc
+coverage
+*.log
+package-lock.json
